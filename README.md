@@ -8,7 +8,7 @@ Noise is an unavoidable component in real-world signals that often degrades syst
 - Filtering
 - Fourier Transform
 - Least Mean Square (LMS) Adaptive Filter
-![LMS_Filter](plots/LMS.png)
+![LMS_Filter](LMS.png)
 - Gaussian Filter
 
 We demonstrate how LMS can be used to significantly improve signal quality.
@@ -18,13 +18,13 @@ We demonstrate how LMS can be used to significantly improve signal quality.
 ## 📊 Results
 
 ### Original Signal
-![Original Signal](plots/original_signal.png)
+![Original Signal](original_signal.png)
 
 ### Noisy Signal
-![Noisy Signal](plots/noisy_signal.png)
+![Noisy Signal](noisy_signal.png)
 
 ### Corrected Signal
-![Corrected Signal](plots/corrected_signal.png)
+![Corrected Signal](corrected_signal.png)
 
 ---
 
